@@ -190,3 +190,24 @@ footer {
     padding: 130px 200px;
     margin-top: 100px;
 }
+
+.footer-column {
+    width: 50%;
+}
+
+.social-links a {
+    margin-right: 25px;
+}
+
+.contact input,
+textarea {
+    display: block;
+    margin-bottom: 20px;
+    padding: 18px 35px;
+    font-size: 16px;
+    border: none;
+    outline: none;
+    border-radius: 5px;
+    color: #757575;
+    width: 100%;
+}
